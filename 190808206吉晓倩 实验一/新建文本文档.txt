@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title><i>190808206吉晓倩</i>的个人网站--首页</title>
+</head>
+
+<body>
+<h1><strong>基本信息</strong></h1>
+<h2>院系：媒体工程学院</h2>
+<img src="image/profile.jpg" alt="头像"width=“400”height=“400”align=“right”/>
+<h3>班级：19软件工程2班</h3>
+<h3>学号：190808206</h3>
+<h3>姓名：吉晓倩</h3>
+<h3>籍贯：山西运城</h3>
+<h3>兴趣爱好：听音乐，舞蹈</h3>
+</body>
+</html>
